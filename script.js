@@ -47,7 +47,7 @@ function calculateTotal(){
     document.getElementById('noOfTicket').innerText =noOfTotalTicket
     document.getElementById('noOfFirstClass').innerText =fistClass
     document.getElementById('noOfEconoClass').innerText =economyClass
-    document.getElementById('totalTicketPrice').innerText=subtotal
+    document.getElementById('totalTicketPrice').innerText=total
     document.getElementById('vatTicketPrice').innerText= vat 
 }
 
